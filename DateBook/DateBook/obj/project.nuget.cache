@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgSc2IULkoQ3jlIxD2L7s2ERUlmFehsKXwoLQh4DISGfUl6s5Cr5eNvPgayQ4PEEvM0fK5fDdAdENaPbd+KK2g==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\C#\\DateBook\\DateBook\\DateBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMYRTAA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AMYRTAA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AMYRTAA\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
